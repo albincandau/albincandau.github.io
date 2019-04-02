@@ -1,5 +1,6 @@
 header {
   margin-top:20px;
+  padding-right: 20px;
 }
 
 #flex-container {
@@ -24,6 +25,9 @@ a {
   color: black
 }
 
+body{
+  height: 100%;
+}
 
 .logo {
   width: 100%;
@@ -49,4 +53,33 @@ a {
 input:hover {
   box-shadow: -1px -1px 9px #ccc;
   box-shadow: 1px 1px 9px #ccc;
+}
+
+.option{
+  display: flex;
+  justify-content: center;
+  }
+
+p{
+  margin-left: 20px;
+}
+
+footer{
+  background-color: #f2f2f2;
+  padding: 0px;
+  margin: 0px;
+  position: sticky;
+}
+
+.france{
+  padding: 5px;
+  border: 1px 0px 1px 0px #e2e2e2;
+
+}
+
+.basdepage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
 }
