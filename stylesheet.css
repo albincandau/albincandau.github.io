@@ -18,7 +18,7 @@ body{
 }
 
 .main{
-  height: 80%;
+  height: 76%;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -28,11 +28,10 @@ body{
 }
 
 footer{
-  height: 10%;
+  height: 14%;
   background-color: #f2f2f2;
   padding: 0px;
   margin: 0px;
-  position: sticky;
 
 }
 
@@ -90,6 +89,7 @@ a:hover{
   padding-left: 17px;
 }
 
+
 input:hover {
   box-shadow: -1px -1px 9px #ccc;
   box-shadow: 1px 1px 9px #ccc;
@@ -115,6 +115,7 @@ input:hover {
 .option{
   display: flex;
   justify-content: center;
+  margin-top: -15px;
   }
 
 p{
@@ -128,14 +129,16 @@ p{
 
 }
 
+.findepage{
+  display: flex;
+  justify-content: center;
+  padding-left: 5px;
+}
+
 .basdepage {
+  padding-left: 5px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   padding: 0px 5px 0px 5px;
-}
-
-.findepage{
-  padding: 0px;
-  margin: 0px;
 }
