@@ -1,5 +1,10 @@
 Holà, 
 
+Ce projet t'es offert par 
+Nasim Ibrahimi
+Albin Candau
+& Anne-Tahina Metz
+
 On espère que tes premiers jours de THP se sont bien passés :D Et que jusque là tu kiffe bien. 
 Bonne grosse découverte et on a bien eu les neurones en ébulition de notre côté.
 
