@@ -1,0 +1,25 @@
+header {
+  margin-top:20px;
+}
+
+#flex-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.button {
+  background-color: #3366ff;
+  border: 0;
+  color: #fff;
+  font-size: 1rem;
+  text-align: center;
+  height: 25px;
+}
+
+
+a {
+  margin : 10px;
+  text-decoration: none;
+  color: black
+}
