@@ -18,7 +18,7 @@ body{
 }
 
 .main{
-  height: 78%;
+  height: 80%;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -69,7 +69,7 @@ a:hover{
 
 .logo {
   width: 100%;
-  height: 30%;
+  height: 25%;
   display: flex;
   justify-content: center;
   margin-top: 7%;
@@ -101,13 +101,14 @@ input:hover {
   color: black;
   font-size: 1rem;
   text-align: center;
-  height: 25px;
+  height: 35px;
   margin-left: 10px;
+  padding: 10px;
+  border-radius: 4px;
 }
 
 .button_recherche:hover{
-    box-shadow: -1px -1px 9px #ccc;
-  box-shadow: 1px 1px 9px #ccc;
+    border: 1px solid grey;
 }
 
 
