@@ -39,7 +39,14 @@ a {
 
 #barre {
   border: none;
-  border: solid 1px black;
-  border-radius: 10px;
-  height: 20px;
+  border: solid 1px #ccc;
+  border-radius: 20px;
+  height: 40px;
+  width: 40%;
+  padding-left: 17px;
+}
+
+input:hover {
+  box-shadow: -1px -1px 9px #ccc;
+  box-shadow: 1px 1px 9px #ccc;
 }
