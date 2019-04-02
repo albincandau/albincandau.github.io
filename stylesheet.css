@@ -23,3 +23,23 @@ a {
   text-decoration: none;
   color: black
 }
+
+
+.logo {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.recherche{
+  display: flex;
+  justify-content: center;
+}
+
+#barre {
+  border: none;
+  border: solid 1px black;
+  border-radius: 10px;
+  height: 20px;
+}
